@@ -3,6 +3,8 @@
 
 A simple and fun browser-based Dino Game built using HTML, CSS, and JavaScript. 
 The objective is to control the dinosaur, avoid incoming obstacles, and survive as long as possible.
+
+
 **🎮 Features**
 
 Smooth dinosaur jump animation using the spacebar.
